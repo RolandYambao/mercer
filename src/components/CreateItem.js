@@ -22,7 +22,7 @@ class createItem extends Component {
 
     handleSaleNumber(e) {
         this.setState({
-            saleName: e.target.value,
+            saleNumber: e.target.value,
         });
     }
 
